@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1685356774 source:e:\garments management\main.cpp
+	<iostream>
+	<string>
+	"product.h"
+	"worker.h"
+	"owner.h"
+	"customer.h"
+
+1685356950 e:\garments management\product.h
+	<iostream>
+	<string>
+	<fstream>
+
+1685357574 e:\garments management\worker.h
+	<iostream>
+	<string>
+	<fstream>
+
+1685356774 e:\garments management\owner.h
+	<iostream>
+	<string>
+	<fstream>
+
+1685356774 e:\garments management\customer.h
+	<iostream>
+	<string>
+	<fstream>
+
+1685356776 source:f:\garments management\main.cpp
+	<iostream>
+	<string>
+	"product.h"
+	"worker.h"
+	"owner.h"
+	"customer.h"
+
+1685356952 f:\garments management\product.h
+	<iostream>
+	<string>
+	<fstream>
+
+1685357576 f:\garments management\worker.h
+	<iostream>
+	<string>
+	<fstream>
+
+1685404394 f:\garments management\owner.h
+	<iostream>
+	<string>
+	<fstream>
+
+1685356776 f:\garments management\customer.h
+	<iostream>
+	<string>
+	<fstream>
+

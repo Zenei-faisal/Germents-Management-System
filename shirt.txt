@@ -1,0 +1,8 @@
+half 
+300
+full
+500
+polo
+200
+cheak
+400
